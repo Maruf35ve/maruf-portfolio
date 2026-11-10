@@ -1,5 +1,4 @@
-# Student Portfolio Template
-
+#Sheikh Maruf portfolio
 A reusable portfolio website for creative students. The original layout, styling, and animations are preserved. Students personalize the website through **one file**: `student-info.js`.
 
 ## Folder structure
