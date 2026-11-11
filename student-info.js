@@ -47,9 +47,9 @@ window.PORTFOLIO_DATA = {
   // 7. FEATURED VIDEO — use a YouTube video ID, not the whole URL
   // Example: for youtube.com/watch?v=AbCd1234, the ID is AbCd1234
   featuredVideoId: "KiQy3wtL55o",
-  showcaseEyebrow: "FEATURED PROJECT",
-  showcaseHeadingLine1: "See the Work",
-  showcaseHeadingLine2: "Feel the Difference",
+  showcaseEyebrow: "A Long Video Created Using AI",
+  showcaseHeadingLine1: "Explore My Work.",
+  showcaseHeadingLine2: "Feel the Creativity.",
   showcaseDescription: "Add one sentence about the featured project.",
 
   // 8. RECENT PROJECTS — keep the image filenames as written or update both
