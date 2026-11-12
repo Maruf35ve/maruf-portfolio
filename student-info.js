@@ -50,7 +50,7 @@ window.PORTFOLIO_DATA = {
   showcaseEyebrow: "A Long Video Created Using AI",
   showcaseHeadingLine1: "Explore My Work.",
   showcaseHeadingLine2: "Feel the Creativity.",
-  showcaseDescription: "Add one sentence about the featured project.",
+  showcaseDescription: "Turning Every Vision into a Stunning Visual Experience.🔥",
 
   // 8. RECENT PROJECTS — keep the image filenames as written or update both
   // the filename here and the actual file in assets.
@@ -73,19 +73,19 @@ window.PORTFOLIO_DATA = {
   // 10. SERVICES — descriptions can be changed to suit your profession
   servicesHeadingLine1: "Creative Services",
   servicesHeadingLine2: "Made for Your Goals",
-  servicesDescription: "Describe how your skills can help clients or collaborators.",
+  servicesDescription: "WHAT I BRING TO THE TABLE",
   services: [
-    { title: "Video Editing", description: "Engaging edits shaped around story, timing, and audience." },
+    { title: "Video Editing & (AI)", description: "I create professional videos using real footage and AI-powered visuals. The choice is yours—real, AI, or a creative blend of both." },
     { title: "Short-form Content", description: "Vertical videos made for Reels, Shorts, and social platforms." },
     { title: "Motion Graphics", description: "Animated titles, transitions, and visual elements." },
-    { title: "Commercial Content", description: "Clear, polished videos for brands and products." },
+    { title: "Commercial Content", description: "I create high-quality commercial ads for all types of brands and businesses, using realistic visuals, cinematic storytelling, and professional editing to make every product and brand stand out" },
     { title: "Creative Planning", description: "A thoughtful approach from idea to final delivery." },
     { title: "Social Media Content", description: "Content adapted to the platform and its audience." }
   ],
 
   // 11. CONTACT INFORMATION — replace every example with your own details
-  contactHeadingLine1: "Let's Create Something Together with",
-  contactHeadingLine2: "Sheikh Maruf",
+  contactHeadingLine1: "Let's Create Something Together ",
+  contactHeadingLine2: "(SHEIKH MARUF)",
   contactDescription: "Got a great idea💡 Share it with me. I'll turn your vision into reality through powerful visuals. Sheikh Maruf — Always by your side, bringing your imagination to life.🎬",
   email: "sheikhmmarufve22926@gmail.com",
   phoneDisplay: "+880 1612361358",
