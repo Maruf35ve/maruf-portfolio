@@ -67,7 +67,7 @@ window.PORTFOLIO_DATA = {
     { title: "Maruf X Talwiinder (Pal Pal style)", category: "Music Video", thumbnail: "assets/videothumbnail1.jpg", videoId: "E5Ct1nZ-fII" },
     { title: "মিশর: যেখানে প্রাচীন সভ্যতার বিস্ময় আজও ইতিহাসের গল্প বলে।", category: "Documentary video", thumbnail: "assets/videothumbnail2.jpg", videoId: "U3BqZ_0QboU" },
     { title: "আলো নিভে গেলে (Maruf's Factory)", category: "Storycraft With AI", thumbnail: "assets/videothumbnail3.jpg", videoId: "KiQy3wtL55o" },
-    { title: "Work in Progress 🚧", category: "Work in Progress 🚧", thumbnail: "assets/videothumbnail4.jpg", videoId: "WDkx1r0Ketg" }
+    { title: "Cinematic Entry", category: "AI-Generated", thumbnail: "assets/videothumbnail4.jpg", videoId: "fO9JulTH218" }
   ],
 
   // 10. SERVICES — descriptions can be changed to suit your profession
