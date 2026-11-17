@@ -46,8 +46,8 @@ window.PORTFOLIO_DATA = {
 
   // 7. FEATURED VIDEO — use a YouTube video ID, not the whole URL
   // Example: for youtube.com/watch?v=AbCd1234, the ID is AbCd1234
-  featuredVideoId: "KiQy3wtL55o",
-  showcaseEyebrow: "A Long Video Created Using AI",
+  featuredVideoId: "4WHsJDYdMOI",
+  showcaseEyebrow: "A Documentary by Sheikh Maruf.",
   showcaseHeadingLine1: "Explore My Work.",
   showcaseHeadingLine2: "Feel the Creativity.",
   showcaseDescription: "Turning Every Vision into a Stunning Visual Experience.🔥",
