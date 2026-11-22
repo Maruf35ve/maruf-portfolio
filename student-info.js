@@ -65,9 +65,9 @@ window.PORTFOLIO_DATA = {
   // 9. LONG-FORM PROJECTS
   longFormProjects: [
     { title: "Maruf X Talwiinder (Pal Pal style)", category: "Music Video", thumbnail: "assets/videothumbnail1.jpg", videoId: "E5Ct1nZ-fII" },
-    { title: "মিশর: যেখানে প্রাচীন সভ্যতার বিস্ময় আজও ইতিহাসের গল্প বলে।", category: "Documentary video", thumbnail: "assets/videothumbnail2.jpg", videoId: "U3BqZ_0QboU" },
+    { title: "বুড়িগঙ্গা—একটি নদীর গল্প,মানুষের জীবন আর সময়ের সাক্ষী।", category: "Buriganga Documentary", thumbnail: "assets/videothumbnail2.jpg", videoId: "4WHsJDYdMOI" },
     { title: "আলো নিভে গেলে (Maruf's Factory)", category: "Storycraft With AI", thumbnail: "assets/videothumbnail3.jpg", videoId: "KiQy3wtL55o" },
-    { title: "Buriganga Documentary", category: "বুড়িগঙ্গা—একটি নদীর গল্প, হারিয়ে যাওয়া ঐতিহ্য, মানুষের জীবন আর সময়ের সাক্ষী।", thumbnail: "assets/videothumbnail4.jpg", videoId: "4WHsJDYdMOI" }
+    { title: "মিশর: যেখানে প্রাচীন সভ্যতার বিস্ময় আজও ইতিহাসের গল্প বলে।", category: "Pyramid Documentary", thumbnail: "assets/videothumbnail4.jpg", videoId: "U3BqZ_0QboU" }
   ],
 
   // 10. SERVICES — descriptions can be changed to suit your profession
