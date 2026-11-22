@@ -151,7 +151,7 @@ window.PORTFOLIO_DATA = {
   setText("#showcase .section-heading p", data.showcaseDescription);
   const featuredId = videoIdFrom(data.featuredVideoId);
   const featuredImage = one("#showcase .video-thumbnail");
-  if (featuredImage && featuredId) featuredImage.src = `https://img.youtube.com/vi/${featuredId}/hqdefault.jpg`;
+  if (featuredImage && featuredId) featuredImage.src = `https://img.youtube.com/vi/${featuredId}/maxresdefault.jpg`;
   if (featuredImage && !featuredId) featuredImage.alt = "Add a YouTube video ID in student-info.js";
 
   all(".reel-card").forEach((card, index) => {
